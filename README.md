@@ -1,4 +1,5 @@
-# css-project 
+# css-project  
+# In this the display : grid property is used instead of flex.
 cloned page: using display:grid properties in css.
 https://adheeshreddy.github.io/css-project-/
 ![Screenshot (673)](https://github.com/adheeshreddy/css-project-/assets/117195347/632952ed-f78e-4515-9f53-9752a7fdbac2)
